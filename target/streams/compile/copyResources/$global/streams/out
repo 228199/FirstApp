@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(D:\lab\Users\228199\firstproject\conf\application.conf,D:\lab\Users\228199\firstproject\target\scala-2.12\classes\application.conf)
+[debug] 	(D:\lab\Users\228199\firstproject\conf\logback.xml,D:\lab\Users\228199\firstproject\target\scala-2.12\classes\logback.xml)
+[debug] 	(D:\lab\Users\228199\firstproject\conf\routes,D:\lab\Users\228199\firstproject\target\scala-2.12\classes\routes)
